@@ -113,8 +113,7 @@ Our Travel AI Planner solves these challenges by providing an intelligent, autom
 6. **Google Calendar API Setup**
    - Enable Google Calendar API in Google Cloud Console
    - Create OAuth 2.0 credentials
-   - Add authorized redirect URIs for Descope
-   - Copy client ID and secret to `.env.local`
+   - Add credentials and authorized redirect URIs for Descope
 
 7. **Run the development server**
    ```bash
