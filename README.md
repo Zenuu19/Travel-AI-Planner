@@ -97,20 +97,11 @@ Our Travel AI Planner solves these challenges by providing an intelligent, autom
    NEXT_PUBLIC_DESCOPE_PROJECT_ID=your_descope_project_id
    DESCOPE_MANAGEMENT_KEY=your_descope_management_key
 
-   # Google Calendar API
-   GOOGLE_CLIENT_ID=your_google_client_id
-   GOOGLE_CLIENT_SECRET=your_google_client_secret
-
    # Database
    MONGODB_URI=your_mongodb_connection_string
 
-   # AI API (OpenAI/Gemini)
-   OPENAI_API_KEY=your_openai_api_key
-   # OR
-   GEMINI_API_KEY=your_gemini_api_key
-
-   # Currency API
-   EXCHANGE_RATE_API_KEY=your_exchange_rate_api_key
+   # AI API 
+   GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_api_key
    ```
 
 4. **Database Setup**
