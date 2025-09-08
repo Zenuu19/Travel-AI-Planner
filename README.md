@@ -59,10 +59,8 @@ Our Travel AI Planner solves these challenges by providing an intelligent, autom
 
 ### Database & APIs
 - **MongoDB** - Document database for trip storage
-- **Descope Authentication API** - User authentication
 - **Google Calendar API** - Calendar integration
-- **Exchange Rate API** - Currency conversion
-- **OpenAI/Gemini API** - AI-powered itinerary generation
+- **Gemini API** - AI-powered itinerary generation
 
 ## 🎬 Demo Video
 
@@ -75,7 +73,6 @@ Our Travel AI Planner solves these challenges by providing an intelligent, autom
 - MongoDB database (local or cloud)
 - Descope account and project
 - Google Cloud Console project with Calendar API enabled
-- API keys for currency conversion
 
 ### Installation Steps
 
@@ -149,18 +146,6 @@ In the remaining development time, we plan to implement:
 - **Rewards & Loyalty Program**: Earn points for bookings and get exclusive benefits
 - **Advanced Trip Customization**: More detailed preferences and activity filters
 - **Social Features**: Share itineraries and get recommendations from other travelers
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-For questions or support, please reach out to the Venture Vultures team.
 
 ---
 
