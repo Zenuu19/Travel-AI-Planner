@@ -54,7 +54,6 @@ Our Travel AI Planner solves these challenges by providing an intelligent, autom
 - **Next.js API Routes** - Server-side API endpoints
 - **Descope SDK** - Authentication and user management
 - **Google Calendar API** - Calendar integration
-- **Exchange Rate API** - Real-time currency conversion
 - **Node.js** - Runtime environment
 
 ### Database & APIs
